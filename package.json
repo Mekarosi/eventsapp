@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Pet manager events todo",
   "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "server": "nodemon server"
+  },
   "repository": "https://github.com/Mekarosi/eventsapp.git",
   "author": "Mekarosi <mekarosi_assa@yahoo.com>",
   "license": "MIT",
